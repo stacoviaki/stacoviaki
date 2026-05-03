@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel Stacoviaki, trabalho com desenvolvimento de software e acredito que o conhecimento é a semente que faz nascer novas possibilidades.
+## Olá! Eu sou o Daniel Stacoviaki.
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
